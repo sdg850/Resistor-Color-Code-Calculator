@@ -30,7 +30,7 @@ form{
 }
 
 form:hover{
- transform: scale(1.03);
+ transform: scale(1.3);
 }
 
 input{
